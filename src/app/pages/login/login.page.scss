@@ -1,0 +1,18 @@
+ion-button[color="dark"] {
+  text-transform: initial;
+  text-align: center;
+}
+
+ion-card,
+ion-item {
+  --background: #ffffff;
+  color: #333333;
+}
+
+ion-button {
+  color: #ffffff;
+}
+
+ion-content {
+  --background: var(--ion-color-success);
+}
